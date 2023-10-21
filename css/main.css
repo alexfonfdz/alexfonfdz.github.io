@@ -597,7 +597,7 @@ body {
 
 .info h2, #header h2 {
   text-transform: uppercase;
-  letter-spacing: px;
+  letter-spacing: 2px;
   margin-bottom: .2em;
   margin-top: 0.5em;
 }
